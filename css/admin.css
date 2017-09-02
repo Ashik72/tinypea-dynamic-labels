@@ -1,0 +1,8 @@
+a.tdl_download_pdf, .tdl_download__all_pdf {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
